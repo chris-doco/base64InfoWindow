@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_ANDROID": "AIzaSyBU69dWucDn-juozrVXzPA2JZ8_qeLIVoI",
+      "PLAY_SERVICES_VERSION": "12.0.0",
+      "ANDROID_SUPPORT_V4_VERSION": "24.1.0",
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    }
+  },
+  "dependent_plugins": {
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    }
+  }
+}
